@@ -1,7 +1,7 @@
 ---
 title: Caleb Matsick
 role: Security Engineer
-avatar_filename: caleb-sp172-2-.jpg
+avatar_filename: avatar.jpg
 bio: I am an aspiring Security Engineer studying Computer Science at Liberty
   University.
 interests:
