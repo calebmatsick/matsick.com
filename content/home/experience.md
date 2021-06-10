@@ -50,7 +50,7 @@ experience:
     company_url: 'liberty.edu'
     company_logo: org-x
     location: Lynchburg, VA
-    date_start: '2020-02-14
+    date_start: '2020-02-14'
     date_end: ''
     description: Helped students.
 
