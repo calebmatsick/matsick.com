@@ -55,5 +55,5 @@ experience:
     description: Helped students.
 
 design:
-  columns: '2'
+  columns: '3'
 ---
