@@ -25,7 +25,7 @@ experience:
   - title: Security Engineer Intern
     company: Principal Financial Group
     company_url: 'principal.com'
-    company_logo: org-gc
+    company_logo: pfglogo
     location: Remote
     date_start: '2021-05-24'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: DevOps Intern
     company: Motley Fool Wealth Management
     company_url: ''
-    company_logo: org-x
+    company_logo: foollogo
     location: Remote
     date_start: '2020-06-05'
     date_end: '2020-07-31'
@@ -48,7 +48,7 @@ experience:
   - title: Resident Assistant
     company: Liberty University
     company_url: 'liberty.edu'
-    company_logo: org-x
+    company_logo: lulogo
     location: Lynchburg, VA
     date_start: '2020-02-14'
     date_end: ''
