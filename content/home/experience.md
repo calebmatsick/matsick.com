@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: Remote
     date_start: '2020-06-05'
-    date_end: '2020-7-31'
+    date_end: '2020-07-31'
     description: Did DevOps stuff.
     
   - title: Resident Assistant
@@ -51,7 +51,7 @@ experience:
     company_logo: org-x
     location: Lynchburg, VA
     date_start: '2020-02-14'
-    date_end: '2021-06-02'
+    date_end: ''
     description: Helped students.
 
 design:
