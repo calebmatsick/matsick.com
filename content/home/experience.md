@@ -51,7 +51,7 @@ experience:
     company_logo: org-x
     location: Lynchburg, VA
     date_start: '2020-02-14'
-    date_end: '2021-06-2'
+    date_end: '2021-06-02'
     description: Helped students.
 
 design:
