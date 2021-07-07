@@ -17,15 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: r-project
-  icon_pack: fab
+  icon: lock
+  icon_pack: fas
   name: Cybersecurity
 - description:
-  icon: chart-line
+  icon: laptop-code
   icon_pack: fas
   name: Software Engineering
 - description:
-  icon: camera-retro
+  icon: server
   icon_pack: fas
   name: System Administration
 
