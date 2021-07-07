@@ -17,7 +17,7 @@ social:
     link: https://github.com/calebmatsick
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/calebmatsick
+    link: https://www.linkedin.com/in/calebmatsick/
 organizations:
   - name: Liberty University
     url: https://www.liberty.edu/
