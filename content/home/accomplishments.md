@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.maccdc.org
+- certificate_url: ""
   date_end: ""
   date_start: "2021-04-25"
   description: ""
@@ -31,7 +31,7 @@ item:
   organization_url: https://www.maccdc.org
   title: '3rd (of 25) - Mid-Atlantic Cyber Defense Competition'
   url: ""
-- certificate_url: https://www.metactf.com
+- certificate_url: ""
   date_end: ""
   date_start: "2020-11-01"
   description: ""
@@ -39,7 +39,7 @@ item:
   organization_url: https://www.metactf.com
   title: '26th (of 995) - University of Virginia MetaCTF Cybersecurity Competition'
   url: ""
-- certificate_url: https://www.vmi.edu/about/conferences/cyberfusion/
+- certificate_url: ""
   date_end: ""
   date_start: "2020-07-01"
   description: ""
