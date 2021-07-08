@@ -12,7 +12,7 @@ image:
   caption: ""
   focal_point: Smart
 
-#links:
+links: ""
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: ""
 ---
 
 The start of a Command and Control framework developed in Go.
