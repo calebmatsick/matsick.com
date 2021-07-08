@@ -9,14 +9,14 @@ date: "2021-07-07T00:00:00Z"
 external_link: "https://github.com/calebmatsick/C3"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+#  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 The start of a Command and Control framework developed in Go.
