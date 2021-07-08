@@ -3,7 +3,7 @@ title: Caleb's Command & Control (C3)
 summary: A basic C2 developed in Go.
 tags:
 - Cybersecurity
-date: "2021-07-7T00:00:00Z"
+date: "2021-07-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/calebmatsick/C3"
@@ -12,11 +12,11 @@ image:
   caption: ""
   focal_point: Smart
 
-links:
-- icon: ""
-  icon_pack: ""
-  name: ""
-  url: ""
+links: ""
+#- icon: ""
+#  icon_pack: ""
+# name: ""
+#  url: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
