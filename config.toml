@@ -20,6 +20,12 @@ url = "https://github.com/calebmatsick"
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/CalebMatsick"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/calebmatsick"
+
 [[menu.main]]
 name = "Home"
 url = "/"
