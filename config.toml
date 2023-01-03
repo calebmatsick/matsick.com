@@ -6,9 +6,10 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
-	mode="auto"
-	useCDN=false
-	subtitle = "Security Engineer by day, Software Engineer by night"
+mode="auto"
+useCDN=false
+subtitle = "Security Engineer by day, Software Engineer by night"
+favicon="https://raw.githubusercontent.com/calebmatsick/matsick.com/master/favicon.ico"
 
 [[params.social]]
 name = "GitHub"
